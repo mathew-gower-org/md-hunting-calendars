@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//md-hunting-calendars//White-tailed Deer//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:White-tailed Deer — Somerset County, MD (2026-2027)
+X-WR-CALNAME:WT Deer - Wicomico
 X-WR-TIMEZONE:America/New_York
 X-APPLE-CALENDAR-COLOR:#006400
 X-OUTLOOK-COLOR:#006400
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260911@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260911@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:WT Deer — A
@@ -21,8 +21,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260912@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260912@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:WT Deer — A
@@ -35,19 +35,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260913@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260913@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -56,8 +54,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260914@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260914@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:WT Deer — A
@@ -70,8 +68,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260915@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260915@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:WT Deer — A
@@ -84,8 +82,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260916@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260916@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:WT Deer — A
@@ -98,8 +96,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260917@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260917@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:WT Deer — A
@@ -112,8 +110,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260918@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260918@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:WT Deer — A
@@ -126,8 +124,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260919@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260919@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:WT Deer — A
@@ -140,19 +138,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260920@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260920@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -161,8 +157,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260921@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260921@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:WT Deer — A
@@ -175,8 +171,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260922@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260922@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:WT Deer — A
@@ -189,8 +185,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260923@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260923@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:WT Deer — A
@@ -203,8 +199,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260924@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260924@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:WT Deer — A
@@ -217,8 +213,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260925@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260925@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:WT Deer — A
@@ -231,8 +227,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260926@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260926@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:WT Deer — A
@@ -245,19 +241,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260927@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260927@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -266,8 +260,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260928@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260928@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:WT Deer — A
@@ -280,8 +274,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260929@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260929@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:WT Deer — A
@@ -294,8 +288,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20260930@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20260930@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:WT Deer — A
@@ -308,8 +302,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261001@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261001@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:WT Deer — A
@@ -322,8 +316,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261002@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261002@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:WT Deer — A
@@ -336,8 +330,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261003@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261003@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:WT Deer — A
@@ -350,19 +344,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261004@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261004@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -371,8 +363,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261005@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261005@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:WT Deer — A
@@ -385,8 +377,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261006@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261006@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:WT Deer — A
@@ -399,8 +391,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261007@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261007@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:WT Deer — A
@@ -413,8 +405,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261008@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261008@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:WT Deer — A
@@ -427,8 +419,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261009@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261009@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:WT Deer — A
@@ -441,8 +433,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261010@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261010@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:WT Deer — A
@@ -455,19 +447,16 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261011@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261011@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Standard shooting hours apply (1/2 hour before sunrise to 1/2 hour af
- ter sunset) unless noted otherwise above. CAUTION: The Sunday-hunting cha
- rt for this county was reconstructed from a flattened text export of the 
- source table and the exact date-to-column alignment could not be fully co
- nfirmed. Verify this date against the official chart before hunting: http
- s://www.eregulations.com/maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). Stan
+ dard shooting hours apply (1/2 hour before sunrise to 1/2 hour after suns
+ et) unless noted otherwise above.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -476,8 +465,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261012@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261012@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:WT Deer — A
@@ -490,8 +479,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261013@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261013@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:WT Deer — A
@@ -504,8 +493,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261014@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261014@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:WT Deer — A
@@ -518,8 +507,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261015@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261015@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:WT Deer — A
@@ -532,8 +521,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261016@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261016@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:WT Deer — A
@@ -546,8 +535,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261017@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261017@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:WT Deer — A
@@ -560,19 +549,16 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261018@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261018@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Standard shooting hours apply (1/2 hour before sunrise to 1/2 hour af
- ter sunset) unless noted otherwise above. CAUTION: The Sunday-hunting cha
- rt for this county was reconstructed from a flattened text export of the 
- source table and the exact date-to-column alignment could not be fully co
- nfirmed. Verify this date against the official chart before hunting: http
- s://www.eregulations.com/maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). Stan
+ dard shooting hours apply (1/2 hour before sunrise to 1/2 hour after suns
+ et) unless noted otherwise above.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -581,8 +567,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261019@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261019@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:WT Deer — A
@@ -595,8 +581,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261020@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261020@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:WT Deer — A
@@ -609,8 +595,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261021@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261021@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:WT Deer — A
@@ -623,8 +609,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261022@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261022@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:WT Deer — ML
@@ -637,8 +623,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261023@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261023@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:WT Deer — ML
@@ -651,8 +637,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261024@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261024@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:WT Deer — ML
@@ -665,19 +651,16 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261025@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261025@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Standard shooting hours apply (1/2 hour before sunrise to 1/2 hour af
- ter sunset) unless noted otherwise above. CAUTION: The Sunday-hunting cha
- rt for this county was reconstructed from a flattened text export of the 
- source table and the exact date-to-column alignment could not be fully co
- nfirmed. Verify this date against the official chart before hunting: http
- s://www.eregulations.com/maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). Stan
+ dard shooting hours apply (1/2 hour before sunrise to 1/2 hour after suns
+ et) unless noted otherwise above.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -686,8 +669,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261026@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261026@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:WT Deer — A/ML
@@ -701,8 +684,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261027@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261027@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:WT Deer — A/ML
@@ -716,8 +699,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261028@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261028@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:WT Deer — A/ML
@@ -731,8 +714,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261029@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261029@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:WT Deer — A/ML
@@ -746,8 +729,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261030@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261030@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:WT Deer — A/ML
@@ -761,8 +744,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261031@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261031@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:WT Deer — A/ML
@@ -776,19 +759,16 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261101@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261101@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Standard shooting hours apply (1/2 hour before sunrise to 1/2 hour af
- ter sunset) unless noted otherwise above. CAUTION: The Sunday-hunting cha
- rt for this county was reconstructed from a flattened text export of the 
- source table and the exact date-to-column alignment could not be fully co
- nfirmed. Verify this date against the official chart before hunting: http
- s://www.eregulations.com/maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). Stan
+ dard shooting hours apply (1/2 hour before sunrise to 1/2 hour after suns
+ et) unless noted otherwise above.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -797,8 +777,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261102@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261102@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:WT Deer — A
@@ -811,8 +791,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261103@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261103@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:WT Deer — A
@@ -825,8 +805,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261104@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261104@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:WT Deer — A
@@ -839,8 +819,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261105@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261105@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:WT Deer — A
@@ -853,8 +833,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261106@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261106@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:WT Deer — A
@@ -867,8 +847,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261107@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261107@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:WT Deer — A
@@ -881,19 +861,16 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261108@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261108@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Standard shooting hours apply (1/2 hour before sunrise to 1/2 hour af
- ter sunset) unless noted otherwise above. CAUTION: The Sunday-hunting cha
- rt for this county was reconstructed from a flattened text export of the 
- source table and the exact date-to-column alignment could not be fully co
- nfirmed. Verify this date against the official chart before hunting: http
- s://www.eregulations.com/maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). Stan
+ dard shooting hours apply (1/2 hour before sunrise to 1/2 hour after suns
+ et) unless noted otherwise above.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -902,8 +879,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261109@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261109@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:WT Deer — A
@@ -916,8 +893,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261110@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261110@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:WT Deer — A
@@ -930,8 +907,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261111@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261111@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:WT Deer — A
@@ -944,8 +921,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261112@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261112@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:WT Deer — A
@@ -958,8 +935,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261113@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261113@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:WT Deer — A
@@ -972,8 +949,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261114@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261114@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:WT Deer — A/ML/F
@@ -996,19 +973,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261115@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261115@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1017,8 +992,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261116@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261116@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:WT Deer — A
@@ -1031,8 +1006,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261117@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261117@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:WT Deer — A
@@ -1045,8 +1020,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261118@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261118@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:WT Deer — A
@@ -1059,8 +1034,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261119@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261119@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:WT Deer — A
@@ -1073,8 +1048,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261120@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261120@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:WT Deer — A
@@ -1087,8 +1062,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261121@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261121@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:WT Deer — A
@@ -1101,19 +1076,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261122@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261122@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1122,8 +1095,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261123@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261123@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:WT Deer — A
@@ -1136,8 +1109,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261124@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261124@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:WT Deer — A
@@ -1150,8 +1123,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261125@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261125@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:WT Deer — A
@@ -1164,8 +1137,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261126@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261126@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:WT Deer — A
@@ -1178,8 +1151,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261127@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261127@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:WT Deer — A
@@ -1192,8 +1165,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261128@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261128@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:WT Deer — F
@@ -1206,19 +1179,16 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261129@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261129@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:WT Deer — F
 DESCRIPTION:Firearms: antlered and antlerless legal. Sunday hunting land 
- access: Private land and designated public land (lands leased to hunt clu
- bs). Standard shooting hours apply (1/2 hour before sunrise to 1/2 hour a
- fter sunset) unless noted otherwise above. CAUTION: The Sunday-hunting ch
- art for this county was reconstructed from a flattened text export of the
-  source table and the exact date-to-column alignment could not be fully c
- onfirmed. Verify this date against the official chart before hunting: htt
- ps://www.eregulations.com/maryland/hunting/sunday-deer-hunting
+ access: Private land and designated public land (Ellis Bay WMA\, Chesapea
+ ke Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). Sta
+ ndard shooting hours apply (1/2 hour before sunrise to 1/2 hour after sun
+ set) unless noted otherwise above.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1227,8 +1197,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261130@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261130@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:WT Deer — F
@@ -1241,8 +1211,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261201@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261201@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:WT Deer — F
@@ -1255,8 +1225,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261202@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261202@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:WT Deer — F
@@ -1269,8 +1239,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261203@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261203@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:WT Deer — F
@@ -1283,8 +1253,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261204@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261204@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:WT Deer — F
@@ -1297,8 +1267,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261205@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261205@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:WT Deer — F
@@ -1311,19 +1281,18 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261206@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261206@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:WT Deer — F
 DESCRIPTION:Firearms: antlered and antlerless legal. Sunday hunting land 
- access: Private land and designated public land (lands leased to hunt clu
- bs). Standard shooting hours apply (1/2 hour before sunrise to 1/2 hour a
- fter sunset) unless noted otherwise above. CAUTION: The Sunday-hunting ch
- art for this county was reconstructed from a flattened text export of the
-  source table and the exact date-to-column alignment could not be fully c
- onfirmed. Verify this date against the official chart before hunting: htt
- ps://www.eregulations.com/maryland/hunting/sunday-deer-hunting
+ access: Private land and designated public land (Ellis Bay WMA\, Chesapea
+ ke Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On 
+ this Sunday\, private-land shooting hours are normal (1/2 hour before sun
+ rise to 1/2 hour after sunset)\; designated-public-land shooting hours ar
+ e limited to 1/2 hour before sunrise until 10:30 AM\, and 3:00 PM until s
+ unset.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1332,8 +1301,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261207@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261207@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:WT Deer — F
@@ -1346,8 +1315,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261208@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261208@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:WT Deer — F
@@ -1360,8 +1329,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261209@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261209@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:WT Deer — F
@@ -1374,8 +1343,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261210@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261210@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:WT Deer — F
@@ -1388,8 +1357,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261211@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261211@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:WT Deer — F
@@ -1402,8 +1371,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261212@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261212@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:WT Deer — F
@@ -1416,8 +1385,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261214@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261214@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:WT Deer — A
@@ -1430,8 +1399,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261215@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261215@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:WT Deer — A
@@ -1444,8 +1413,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261216@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261216@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:WT Deer — A
@@ -1458,8 +1427,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261217@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261217@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:WT Deer — A
@@ -1472,8 +1441,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261218@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261218@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:WT Deer — A
@@ -1486,8 +1455,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261219@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261219@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:WT Deer — ML
@@ -1500,19 +1469,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261220@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261220@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:WT Deer — ML
 DESCRIPTION:Muzzleloader: antlered and antlerless legal. Sunday hunting l
- and access: Private land and designated public land (lands leased to hunt
-  clubs). Legal shooting hours limited to 1/2 hour before sunrise until 10
- :30 AM on this Sunday. CAUTION: The Sunday-hunting chart for this county 
- was reconstructed from a flattened text export of the source table and th
- e exact date-to-column alignment could not be fully confirmed. Verify thi
- s date against the official chart before hunting: https://www.eregulation
- s.com/maryland/hunting/sunday-deer-hunting
+ and access: Private land and designated public land (Ellis Bay WMA\, Ches
+ apeake Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA).
+  On this Sunday\, private-land shooting hours are normal (1/2 hour before
+  sunrise to 1/2 hour after sunset)\; designated-public-land shooting hour
+ s are limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1521,8 +1488,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261221@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261221@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:WT Deer — ML
@@ -1535,8 +1502,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261222@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261222@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:WT Deer — ML
@@ -1549,8 +1516,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261223@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261223@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:WT Deer — ML
@@ -1563,8 +1530,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261224@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261224@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:WT Deer — ML
@@ -1577,8 +1544,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261225@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261225@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:WT Deer — ML
@@ -1591,8 +1558,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261226@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261226@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:WT Deer — ML
@@ -1605,19 +1572,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261227@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261227@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:WT Deer — ML
 DESCRIPTION:Muzzleloader: antlered and antlerless legal. Sunday hunting l
- and access: Private land and designated public land (lands leased to hunt
-  clubs). Legal shooting hours limited to 1/2 hour before sunrise until 10
- :30 AM on this Sunday. CAUTION: The Sunday-hunting chart for this county 
- was reconstructed from a flattened text export of the source table and th
- e exact date-to-column alignment could not be fully confirmed. Verify thi
- s date against the official chart before hunting: https://www.eregulation
- s.com/maryland/hunting/sunday-deer-hunting
+ and access: Private land and designated public land (Ellis Bay WMA\, Ches
+ apeake Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA).
+  On this Sunday\, private-land shooting hours are normal (1/2 hour before
+  sunrise to 1/2 hour after sunset)\; designated-public-land shooting hour
+ s are limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1626,8 +1591,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261228@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261228@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:WT Deer — ML
@@ -1640,8 +1605,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261229@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261229@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:WT Deer — ML
@@ -1654,8 +1619,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261230@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261230@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:WT Deer — ML
@@ -1668,8 +1633,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20261231@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20261231@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:WT Deer — ML
@@ -1682,8 +1647,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270101@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270101@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:WT Deer — ML
@@ -1696,8 +1661,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270102@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270102@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:WT Deer — ML
@@ -1710,19 +1675,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270103@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270103@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1731,8 +1694,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270104@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270104@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:WT Deer — A
@@ -1745,8 +1708,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270105@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270105@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:WT Deer — A
@@ -1759,8 +1722,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270106@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270106@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:WT Deer — A
@@ -1773,8 +1736,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270107@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270107@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:WT Deer — A
@@ -1787,8 +1750,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270108@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270108@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:WT Deer — F
@@ -1801,8 +1764,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270109@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270109@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:WT Deer — F
@@ -1815,19 +1778,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270110@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270110@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:WT Deer — F
 DESCRIPTION:Firearms: antlered and antlerless legal. Sunday hunting land 
- access: Private land and designated public land (lands leased to hunt clu
- bs). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 
- AM on this Sunday. CAUTION: The Sunday-hunting chart for this county was 
- reconstructed from a flattened text export of the source table and the ex
- act date-to-column alignment could not be fully confirmed. Verify this da
- te against the official chart before hunting: https://www.eregulations.co
- m/maryland/hunting/sunday-deer-hunting
+ access: Private land and designated public land (Ellis Bay WMA\, Chesapea
+ ke Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On 
+ this Sunday\, private-land shooting hours are normal (1/2 hour before sun
+ rise to 1/2 hour after sunset)\; designated-public-land shooting hours ar
+ e limited to 1/2 hour before sunrise until 10:30 AM\, and 3:00 PM until s
+ unset. On this Sunday\, private-land shooting hours are normal (1/2 hour 
+ before sunrise to 1/2 hour after sunset)\; designated-public-land shootin
+ g hours are limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1836,8 +1800,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270111@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270111@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:WT Deer — A
@@ -1850,8 +1814,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270112@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270112@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:WT Deer — A
@@ -1864,8 +1828,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270113@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270113@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:WT Deer — A
@@ -1878,8 +1842,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270114@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270114@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:WT Deer — A
@@ -1892,8 +1856,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270115@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270115@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:WT Deer — A
@@ -1906,8 +1870,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270116@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270116@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:WT Deer — A
@@ -1920,19 +1884,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270117@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270117@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1941,8 +1903,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270118@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270118@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:WT Deer — A
@@ -1955,8 +1917,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270119@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270119@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:WT Deer — A
@@ -1969,8 +1931,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270120@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270120@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:WT Deer — A
@@ -1983,8 +1945,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270121@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270121@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:WT Deer — A
@@ -1997,8 +1959,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270122@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270122@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:WT Deer — A
@@ -2011,8 +1973,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270123@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270123@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:WT Deer — A
@@ -2025,19 +1987,17 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270124@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270124@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Legal shooting hours limited to 1/2 hour before sunrise until 10:30 A
- M on this Sunday. CAUTION: The Sunday-hunting chart for this county was r
- econstructed from a flattened text export of the source table and the exa
- ct date-to-column alignment could not be fully confirmed. Verify this dat
- e against the official chart before hunting: https://www.eregulations.com
- /maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). On t
+ his Sunday\, private-land shooting hours are normal (1/2 hour before sunr
+ ise to 1/2 hour after sunset)\; designated-public-land shooting hours are
+  limited to 1/2 hour before sunrise until 10:30 AM.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2046,8 +2006,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270125@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270125@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:WT Deer — A
@@ -2060,8 +2020,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270126@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270126@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:WT Deer — A
@@ -2074,8 +2034,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270127@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270127@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:WT Deer — A
@@ -2088,8 +2048,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270128@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270128@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:WT Deer — A
@@ -2102,8 +2062,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270129@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270129@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:WT Deer — A
@@ -2116,8 +2076,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270130@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270130@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:WT Deer — A
@@ -2130,19 +2090,16 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270131@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270131@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (lands leased to hunt club
- s). Standard shooting hours apply (1/2 hour before sunrise to 1/2 hour af
- ter sunset) unless noted otherwise above. CAUTION: The Sunday-hunting cha
- rt for this county was reconstructed from a flattened text export of the 
- source table and the exact date-to-column alignment could not be fully co
- nfirmed. Verify this date against the official chart before hunting: http
- s://www.eregulations.com/maryland/hunting/sunday-deer-hunting
+ ccess: Private land and designated public land (Ellis Bay WMA\, Chesapeak
+ e Forest Lands\, Johnson WMA\, Nanticoke River WMA\, Wetipquin WMA). Stan
+ dard shooting hours apply (1/2 hour before sunrise to 1/2 hour after suns
+ et) unless noted otherwise above.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2151,8 +2108,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270201@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270201@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:WT Deer — PW
@@ -2166,8 +2123,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270202@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270202@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:WT Deer — PW
@@ -2181,8 +2138,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-somerset-20270203@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-wicomico-20270203@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:WT Deer — PW

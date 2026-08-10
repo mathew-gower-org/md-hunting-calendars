@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//md-hunting-calendars//White-tailed Deer//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:White-tailed Deer — Allegany County, MD (2026-2027)
+X-WR-CALNAME:WT Deer - Harford
 X-WR-TIMEZONE:America/New_York
 X-APPLE-CALENDAR-COLOR:#006400
 X-OUTLOOK-COLOR:#006400
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260911@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260911@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:WT Deer — A
@@ -21,8 +21,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260912@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260912@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:WT Deer — A
@@ -35,26 +35,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260913@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20260914@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260914@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:WT Deer — A
@@ -67,8 +49,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260915@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260915@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:WT Deer — A
@@ -81,8 +63,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260916@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260916@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:WT Deer — A
@@ -95,8 +77,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260917@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260917@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:WT Deer — A
@@ -109,8 +91,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260918@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260918@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:WT Deer — A
@@ -123,8 +105,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260919@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260919@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:WT Deer — A
@@ -137,26 +119,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260920@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20260921@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260921@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:WT Deer — A
@@ -169,8 +133,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260922@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260922@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:WT Deer — A
@@ -183,8 +147,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260923@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260923@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:WT Deer — A
@@ -197,8 +161,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260924@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260924@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:WT Deer — A
@@ -211,8 +175,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260925@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260925@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:WT Deer — A
@@ -225,8 +189,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260926@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260926@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:WT Deer — A
@@ -239,26 +203,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260927@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20260928@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260928@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:WT Deer — A
@@ -271,8 +217,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260929@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260929@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:WT Deer — A
@@ -285,8 +231,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20260930@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20260930@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:WT Deer — A
@@ -299,8 +245,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261001@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261001@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:WT Deer — A
@@ -313,8 +259,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261002@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261002@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:WT Deer — A
@@ -327,8 +273,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261003@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261003@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:WT Deer — A
@@ -341,26 +287,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261004@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20261005@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261005@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:WT Deer — A
@@ -373,8 +301,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261006@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261006@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:WT Deer — A
@@ -387,8 +315,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261007@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261007@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:WT Deer — A
@@ -401,8 +329,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261008@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261008@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:WT Deer — A
@@ -415,8 +343,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261009@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261009@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:WT Deer — A
@@ -429,8 +357,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261010@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261010@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:WT Deer — A
@@ -443,26 +371,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261011@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20261012@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261012@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:WT Deer — A
@@ -475,8 +385,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261013@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261013@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:WT Deer — A
@@ -489,8 +399,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261014@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261014@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:WT Deer — A
@@ -503,8 +413,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261015@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261015@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:WT Deer — A
@@ -517,8 +427,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261016@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261016@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:WT Deer — A
@@ -531,8 +441,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261017@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261017@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:WT Deer — A
@@ -545,26 +455,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261018@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20261019@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261019@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:WT Deer — A
@@ -577,8 +469,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261020@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261020@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:WT Deer — A
@@ -591,8 +483,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261021@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261021@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:WT Deer — A
@@ -605,8 +497,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261022@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261022@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:WT Deer — ML
@@ -619,8 +511,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261023@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261023@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:WT Deer — ML
@@ -633,8 +525,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261024@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261024@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:WT Deer — ML
@@ -647,30 +539,13 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261025@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20261026@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261026@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal.
+SUMMARY:WT Deer — A/ML
+DESCRIPTION:Archery: antlered and antlerless legal. Muzzleloader: antlerl
+ ess only.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -679,12 +554,13 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261027@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261027@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal.
+SUMMARY:WT Deer — A/ML
+DESCRIPTION:Archery: antlered and antlerless legal. Muzzleloader: antlerl
+ ess only.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -693,12 +569,13 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261028@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261028@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal.
+SUMMARY:WT Deer — A/ML
+DESCRIPTION:Archery: antlered and antlerless legal. Muzzleloader: antlerl
+ ess only.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -707,12 +584,13 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261029@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261029@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal.
+SUMMARY:WT Deer — A/ML
+DESCRIPTION:Archery: antlered and antlerless legal. Muzzleloader: antlerl
+ ess only.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -721,12 +599,13 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261030@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261030@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal.
+SUMMARY:WT Deer — A/ML
+DESCRIPTION:Archery: antlered and antlerless legal. Muzzleloader: antlerl
+ ess only.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -735,12 +614,13 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261031@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261031@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal.
+SUMMARY:WT Deer — A/ML
+DESCRIPTION:Archery: antlered and antlerless legal. Muzzleloader: antlerl
+ ess only.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -749,16 +629,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261101@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261101@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
+ ccess: Private land only. Standard shooting hours apply (1/2 hour before 
+ sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION: 
+ This county's row in the source Sunday chart lists only plain 'Open' cell
+ s with no distinguishing footnote markers\, so (unlike counties with foot
+ note-tagged cells\, which produce a positional fingerprint) the exact sub
+ set of Sundays could not be uniquely determined from the flattened table 
+ text. Verify against https://www.eregulations.com/maryland/hunting/sunday
+ -deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -767,8 +651,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261102@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261102@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:WT Deer — A
@@ -781,8 +665,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261103@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261103@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:WT Deer — A
@@ -795,8 +679,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261104@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261104@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:WT Deer — A
@@ -809,8 +693,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261105@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261105@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:WT Deer — A
@@ -823,8 +707,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261106@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261106@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:WT Deer — A
@@ -837,8 +721,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261107@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261107@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:WT Deer — A
@@ -851,16 +735,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261108@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261108@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
+ ccess: Private land only. Standard shooting hours apply (1/2 hour before 
+ sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION: 
+ This county's row in the source Sunday chart lists only plain 'Open' cell
+ s with no distinguishing footnote markers\, so (unlike counties with foot
+ note-tagged cells\, which produce a positional fingerprint) the exact sub
+ set of Sundays could not be uniquely determined from the flattened table 
+ text. Verify against https://www.eregulations.com/maryland/hunting/sunday
+ -deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -869,8 +757,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261109@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261109@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:WT Deer — A
@@ -883,8 +771,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261110@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261110@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:WT Deer — A
@@ -897,8 +785,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261111@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261111@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:WT Deer — A
@@ -911,8 +799,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261112@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261112@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:WT Deer — A
@@ -925,8 +813,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261113@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261113@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:WT Deer — A
@@ -939,8 +827,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261114@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261114@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:WT Deer — A/ML/F
@@ -963,26 +851,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261115@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261115@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:WT Deer — A/ML/F
-DESCRIPTION:Archery: antlered and antlerless legal. Legal for Junior hunt
- ers (and\, if the regular Archery season is open that day\, all licensed 
- archery hunters) Muzzleloader: antlered and antlerless legal. Legal for J
- unior hunters only on Junior Deer Hunt Day Firearms: antlered and antlerl
- ess legal. Legal for Junior hunters only on Junior Deer Hunt Day Junior D
- eer Hunt Day: hunters age 16 or younger only\, must be accompanied by an 
- unarmed adult 21+ who holds a valid MD hunting license (Apprentice licens
- e does not qualify). Separate bag limit\; harvest does not count against 
- regular season bag limits. Junior hunters are exempt from antler point re
- strictions. Shooting hours: 1/2 hour before sunrise to 1/2 hour after sun
- set. Sunday hunting land access: Private land and designated public land 
- (Billmeyer-Belle Grove WMA\, Dan's Mountain WMA\, Green Ridge SF\, McCool
- e FMA\, Sideling Hill WMA\, Warrior Mountain WMA). Standard shooting hour
- s apply (1/2 hour before sunrise to 1/2 hour after sunset) unless noted o
- therwise above.
+SUMMARY:WT Deer — A
+DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
+ ccess: Private land only. Standard shooting hours apply (1/2 hour before 
+ sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION: 
+ This county's row in the source Sunday chart lists only plain 'Open' cell
+ s with no distinguishing footnote markers\, so (unlike counties with foot
+ note-tagged cells\, which produce a positional fingerprint) the exact sub
+ set of Sundays could not be uniquely determined from the flattened table 
+ text. Verify against https://www.eregulations.com/maryland/hunting/sunday
+ -deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -991,8 +873,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261116@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261116@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:WT Deer — A
@@ -1005,8 +887,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261117@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261117@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:WT Deer — A
@@ -1019,8 +901,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261118@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261118@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:WT Deer — A
@@ -1033,8 +915,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261119@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261119@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:WT Deer — A
@@ -1047,8 +929,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261120@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261120@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:WT Deer — A
@@ -1061,8 +943,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261121@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261121@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:WT Deer — A
@@ -1075,16 +957,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261122@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261122@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
+ ccess: Private land only. Standard shooting hours apply (1/2 hour before 
+ sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION: 
+ This county's row in the source Sunday chart lists only plain 'Open' cell
+ s with no distinguishing footnote markers\, so (unlike counties with foot
+ note-tagged cells\, which produce a positional fingerprint) the exact sub
+ set of Sundays could not be uniquely determined from the flattened table 
+ text. Verify against https://www.eregulations.com/maryland/hunting/sunday
+ -deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1093,8 +979,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261123@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261123@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:WT Deer — A
@@ -1107,8 +993,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261124@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261124@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:WT Deer — A
@@ -1121,8 +1007,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261125@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261125@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:WT Deer — A
@@ -1135,8 +1021,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261126@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261126@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:WT Deer — A
@@ -1149,8 +1035,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261127@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261127@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:WT Deer — A
@@ -1163,12 +1049,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261128@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261128@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:WT Deer — F — Antlered
-DESCRIPTION:Firearms: antlered only.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1177,30 +1063,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261129@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:WT Deer — F — Antlered
-DESCRIPTION:Firearms: antlered only. Sunday hunting land access: Private 
- land and designated public land (Billmeyer-Belle Grove WMA\, Dan's Mounta
- in WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\, Warrior Mount
- ain WMA). Standard shooting hours apply (1/2 hour before sunrise to 1/2 h
- our after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20261130@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261130@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:WT Deer — F — Antlered
-DESCRIPTION:Firearms: antlered only.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1209,12 +1077,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261201@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261201@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:WT Deer — F — Antlered
-DESCRIPTION:Firearms: antlered only.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1223,12 +1091,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261202@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261202@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:WT Deer — F — Antlered
-DESCRIPTION:Firearms: antlered only.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1237,12 +1105,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261203@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261203@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:WT Deer — F — Antlered
-DESCRIPTION:Firearms: antlered only.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1251,12 +1119,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261204@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261204@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:WT Deer — F — Antlered
-DESCRIPTION:Firearms: antlered only.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1265,8 +1133,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261205@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261205@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:WT Deer — F
@@ -1279,26 +1147,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261206@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:WT Deer — F
-DESCRIPTION:Firearms: antlered and antlerless legal. Sunday hunting land 
- access: Private land and designated public land (Billmeyer-Belle Grove WM
- A\, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA
- \, Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before 
- sunrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20261207@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261207@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:WT Deer — F
@@ -1311,8 +1161,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261208@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261208@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:WT Deer — F
@@ -1325,8 +1175,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261209@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261209@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:WT Deer — F
@@ -1339,8 +1189,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261210@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261210@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:WT Deer — F
@@ -1353,8 +1203,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261211@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261211@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:WT Deer — F
@@ -1367,8 +1217,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261212@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261212@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:WT Deer — F
@@ -1381,8 +1231,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261214@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261214@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:WT Deer — A
@@ -1395,8 +1245,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261215@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261215@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:WT Deer — A
@@ -1409,8 +1259,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261216@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261216@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:WT Deer — A
@@ -1423,8 +1273,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261217@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261217@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:WT Deer — A
@@ -1437,8 +1287,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261218@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261218@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:WT Deer — A
@@ -1451,12 +1301,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261219@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261219@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:WT Deer — ML — Antlered
-DESCRIPTION:Muzzleloader: antlered only.
+SUMMARY:WT Deer — ML
+DESCRIPTION:Muzzleloader: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1465,30 +1315,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261220@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:WT Deer — ML — Antlered
-DESCRIPTION:Muzzleloader: antlered only. Sunday hunting land access: Priv
- ate land and designated public land (Billmeyer-Belle Grove WMA\, Dan's Mo
- untain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\, Warrior M
- ountain WMA). Standard shooting hours apply (1/2 hour before sunrise to 1
- /2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20261221@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261221@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:WT Deer — ML — Antlered
-DESCRIPTION:Muzzleloader: antlered only.
+SUMMARY:WT Deer — ML
+DESCRIPTION:Muzzleloader: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1497,12 +1329,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261222@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261222@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:WT Deer — ML — Antlered
-DESCRIPTION:Muzzleloader: antlered only.
+SUMMARY:WT Deer — ML
+DESCRIPTION:Muzzleloader: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1511,12 +1343,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261223@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261223@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:WT Deer — ML — Antlered
-DESCRIPTION:Muzzleloader: antlered only.
+SUMMARY:WT Deer — ML
+DESCRIPTION:Muzzleloader: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1525,12 +1357,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261224@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261224@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:WT Deer — ML — Antlered
-DESCRIPTION:Muzzleloader: antlered only.
+SUMMARY:WT Deer — ML
+DESCRIPTION:Muzzleloader: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1539,12 +1371,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261225@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261225@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-SUMMARY:WT Deer — ML — Antlered
-DESCRIPTION:Muzzleloader: antlered only.
+SUMMARY:WT Deer — ML
+DESCRIPTION:Muzzleloader: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1553,8 +1385,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261226@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261226@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:WT Deer — ML
@@ -1567,26 +1399,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261227@md-hunting-calendars
-DTSTAMP:20260807T193326Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:WT Deer — ML
-DESCRIPTION:Muzzleloader: antlered and antlerless legal. Sunday hunting l
- and access: Private land and designated public land (Billmeyer-Belle Grov
- e WMA\, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill
-  WMA\, Warrior Mountain WMA). Standard shooting hours apply (1/2 hour bef
- ore sunrise to 1/2 hour after sunset) unless noted otherwise above.
-CLASS:PRIVATE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-X-APPLE-CALENDAR-COLOR:#006400
-CATEGORIES:Hunting,White-tailed Deer
-END:VEVENT
-BEGIN:VEVENT
-UID:wtdeer-allegany-20261228@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261228@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:WT Deer — ML
@@ -1599,8 +1413,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261229@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261229@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:WT Deer — ML
@@ -1613,8 +1427,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261230@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261230@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:WT Deer — ML
@@ -1627,8 +1441,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20261231@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20261231@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:WT Deer — ML
@@ -1641,8 +1455,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270101@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270101@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:WT Deer — ML
@@ -1655,8 +1469,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270102@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270102@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:WT Deer — ML
@@ -1669,16 +1483,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270103@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270103@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
+ ccess: Private land only. Standard shooting hours apply (1/2 hour before 
+ sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION: 
+ This county's row in the source Sunday chart lists only plain 'Open' cell
+ s with no distinguishing footnote markers\, so (unlike counties with foot
+ note-tagged cells\, which produce a positional fingerprint) the exact sub
+ set of Sundays could not be uniquely determined from the flattened table 
+ text. Verify against https://www.eregulations.com/maryland/hunting/sunday
+ -deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1687,8 +1505,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270104@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270104@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:WT Deer — A
@@ -1701,8 +1519,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270105@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270105@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:WT Deer — A
@@ -1715,8 +1533,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270106@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270106@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:WT Deer — A
@@ -1729,8 +1547,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270107@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270107@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:WT Deer — A
@@ -1743,12 +1561,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270108@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270108@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1757,12 +1575,12 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270109@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270109@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1771,16 +1589,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270110@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270110@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-SUMMARY:WT Deer — A
-DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
+SUMMARY:WT Deer — F
+DESCRIPTION:Firearms: antlered and antlerless legal. Sunday hunting land 
+ access: Private land only. Standard shooting hours apply (1/2 hour before
+  sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION:
+  This county's row in the source Sunday chart lists only plain 'Open' cel
+ ls with no distinguishing footnote markers\, so (unlike counties with foo
+ tnote-tagged cells\, which produce a positional fingerprint) the exact su
+ bset of Sundays could not be uniquely determined from the flattened table
+  text. Verify against https://www.eregulations.com/maryland/hunting/sunda
+ y-deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1789,8 +1611,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270111@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270111@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:WT Deer — A
@@ -1803,8 +1625,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270112@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270112@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:WT Deer — A
@@ -1817,8 +1639,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270113@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270113@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:WT Deer — A
@@ -1831,8 +1653,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270114@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270114@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:WT Deer — A
@@ -1845,8 +1667,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270115@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270115@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:WT Deer — A
@@ -1859,8 +1681,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270116@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270116@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:WT Deer — A
@@ -1873,16 +1695,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270117@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270117@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
+ ccess: Private land only. Standard shooting hours apply (1/2 hour before 
+ sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION: 
+ This county's row in the source Sunday chart lists only plain 'Open' cell
+ s with no distinguishing footnote markers\, so (unlike counties with foot
+ note-tagged cells\, which produce a positional fingerprint) the exact sub
+ set of Sundays could not be uniquely determined from the flattened table 
+ text. Verify against https://www.eregulations.com/maryland/hunting/sunday
+ -deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1891,8 +1717,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270118@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270118@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:WT Deer — A
@@ -1905,8 +1731,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270119@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270119@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:WT Deer — A
@@ -1919,8 +1745,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270120@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270120@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:WT Deer — A
@@ -1933,8 +1759,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270121@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270121@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:WT Deer — A
@@ -1947,8 +1773,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270122@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270122@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:WT Deer — A
@@ -1961,8 +1787,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270123@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270123@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:WT Deer — A
@@ -1975,16 +1801,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270124@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270124@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
+ ccess: Private land only. Standard shooting hours apply (1/2 hour before 
+ sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION: 
+ This county's row in the source Sunday chart lists only plain 'Open' cell
+ s with no distinguishing footnote markers\, so (unlike counties with foot
+ note-tagged cells\, which produce a positional fingerprint) the exact sub
+ set of Sundays could not be uniquely determined from the flattened table 
+ text. Verify against https://www.eregulations.com/maryland/hunting/sunday
+ -deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1993,8 +1823,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270125@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270125@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:WT Deer — A
@@ -2007,8 +1837,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270126@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270126@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:WT Deer — A
@@ -2021,8 +1851,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270127@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270127@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:WT Deer — A
@@ -2035,8 +1865,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270128@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270128@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:WT Deer — A
@@ -2049,8 +1879,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270129@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270129@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:WT Deer — A
@@ -2063,8 +1893,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270130@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270130@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:WT Deer — A
@@ -2077,16 +1907,20 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270131@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270131@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:WT Deer — A
 DESCRIPTION:Archery: antlered and antlerless legal. Sunday hunting land a
- ccess: Private land and designated public land (Billmeyer-Belle Grove WMA
- \, Dan's Mountain WMA\, Green Ridge SF\, McCoole FMA\, Sideling Hill WMA\
- , Warrior Mountain WMA). Standard shooting hours apply (1/2 hour before s
- unrise to 1/2 hour after sunset) unless noted otherwise above.
+ ccess: Private land only. Standard shooting hours apply (1/2 hour before 
+ sunrise to 1/2 hour after sunset) unless noted otherwise above. CAUTION: 
+ This county's row in the source Sunday chart lists only plain 'Open' cell
+ s with no distinguishing footnote markers\, so (unlike counties with foot
+ note-tagged cells\, which produce a positional fingerprint) the exact sub
+ set of Sundays could not be uniquely determined from the flattened table 
+ text. Verify against https://www.eregulations.com/maryland/hunting/sunday
+ -deer-hunting before hunting.
 CLASS:PRIVATE
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2095,8 +1929,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270201@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270201@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:WT Deer — PW
@@ -2110,8 +1944,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270202@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270202@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:WT Deer — PW
@@ -2125,8 +1959,8 @@ X-APPLE-CALENDAR-COLOR:#006400
 CATEGORIES:Hunting,White-tailed Deer
 END:VEVENT
 BEGIN:VEVENT
-UID:wtdeer-allegany-20270203@md-hunting-calendars
-DTSTAMP:20260807T193326Z
+UID:wtdeer-harford-20270203@md-hunting-calendars
+DTSTAMP:20260810T192455Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:WT Deer — PW
