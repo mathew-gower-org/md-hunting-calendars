@@ -1,1 +1,2 @@
-*.ics -text
+# Force CRLF for iCalendar files regardless of platform or user config
+*.ics text eol=crlf
