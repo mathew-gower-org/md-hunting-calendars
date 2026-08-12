@@ -32,3 +32,36 @@
 - [wt-deer-wicomico.ics](https://mathew-gower-org.github.io/md-hunting-calendars/wt-deer-wicomico.ics)
 - [wt-deer-worcester.ics](https://mathew-gower-org.github.io/md-hunting-calendars/wt-deer-worcester.ics)
 - [md-hunting-wt-deer.json](https://mathew-gower-org.github.io/md-hunting-calendars/md-hunting-wt-deer.json)
+
+## Sika Deer Hunting Calendars
+
+**Last generated:** August 11, 2026
+
+**Files generated:**
+
+- [sika-deer-allegany.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-allegany.ics)
+- [sika-deer-anne-arundel.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-anne-arundel.ics)
+- [sika-deer-baltimore-city.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-baltimore-city.ics)
+- [sika-deer-baltimore.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-baltimore.ics)
+- [sika-deer-calvert.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-calvert.ics)
+- [sika-deer-caroline.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-caroline.ics)
+- [sika-deer-carroll.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-carroll.ics)
+- [sika-deer-cecil.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-cecil.ics)
+- [sika-deer-charles.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-charles.ics)
+- [sika-deer-dorchester.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-dorchester.ics)
+- [sika-deer-frederick.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-frederick.ics)
+- [sika-deer-garrett.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-garrett.ics)
+- [sika-deer-harford.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-harford.ics)
+- [sika-deer-howard.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-howard.ics)
+- [sika-deer-kent.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-kent.ics)
+- [sika-deer-montgomery.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-montgomery.ics)
+- [sika-deer-prince-georges.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-prince-georges.ics)
+- [sika-deer-queen-annes.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-queen-annes.ics)
+- [sika-deer-somerset.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-somerset.ics)
+- [sika-deer-st-marys.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-st-marys.ics)
+- [sika-deer-talbot.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-talbot.ics)
+- [sika-deer-washington-a.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-washington-a.ics)
+- [sika-deer-washington-b.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-washington-b.ics)
+- [sika-deer-wicomico.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-wicomico.ics)
+- [sika-deer-worcester.ics](https://mathew-gower-org.github.io/md-hunting-calendars/sika-deer-worcester.ics)
+- [md-hunting-sika-deer.json](https://mathew-gower-org.github.io/md-hunting-calendars/md-hunting-sika-deer.json)
