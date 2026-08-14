@@ -1,0 +1,1012 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//md-hunting-calendars//turkey-garrett//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Turkey - Garrett
+X-WR-TIMEZONE:America/New_York
+X-APPLE-CALENDAR-COLOR:#006400
+X-OUTLOOK-COLOR:#006400
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261031@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261101@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives. Sunday hunting land access: Private land and
+  designated public land (Cunningham Swamp WMA\, Garrett SF\, Mt. Nebo WMA
+ \, Potomac SF\, Savage River SF). Sunday shooting hours are the same as M
+ onday through Saturday.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261102@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261103@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261104@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261105@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261106@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261107@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20261108@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Turkey - A/F
+DESCRIPTION:Fall Season. Legal devices: crossbow\, vertical bow\, and arr
+ ow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller\, or solid si
+ ngle projectile)\, rifle\, handgun\, or bullet-shooting air gun (F). 1 tu
+ rkey of either sex\; combined bag limit shared with the Winter Season (1 
+ total for Fall + Winter combined). Shooting hours: 1/2 hour before sunris
+ e to sunset. It is illegal to hunt turkeys with the aid of bait\, or to u
+ se dogs or organized drives. Sunday hunting land access: Private land and
+  designated public land (Cunningham Swamp WMA\, Garrett SF\, Mt. Nebo WMA
+ \, Potomac SF\, Savage River SF). Sunday shooting hours are the same as M
+ onday through Saturday.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270121@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Turkey - A/F
+DESCRIPTION:Winter Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 turkey of either sex\; combined bag limit sha
+ red with the Fall Season (1 total for Fall + Winter combined). Shooting h
+ ours: 1/2 hour before sunrise to sunset. It is illegal to hunt turkeys wi
+ th the aid of bait\, or to use dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270122@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Turkey - A/F
+DESCRIPTION:Winter Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 turkey of either sex\; combined bag limit sha
+ red with the Fall Season (1 total for Fall + Winter combined). Shooting h
+ ours: 1/2 hour before sunrise to sunset. It is illegal to hunt turkeys wi
+ th the aid of bait\, or to use dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270123@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Turkey - A/F
+DESCRIPTION:Winter Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 turkey of either sex\; combined bag limit sha
+ red with the Fall Season (1 total for Fall + Winter combined). Shooting h
+ ours: 1/2 hour before sunrise to sunset. It is illegal to hunt turkeys wi
+ th the aid of bait\, or to use dogs or organized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270417@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Turkey - A/F
+DESCRIPTION:Junior Hunt Day. Legal devices: crossbow\, vertical bow\, and
+  arrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow
+ /bolt-shooting air gun (F). 1 bearded turkey\; counts toward the Spring S
+ eason bag limit (2/season). Hunters age 16 or younger only\, accompanied 
+ by an unarmed adult 21+ with a valid MD hunting license (Apprentice licen
+ se does not qualify). Shooting hours: 1/2 hour before sunrise to sunset. 
+ It is illegal to hunt turkeys with the aid of bait\, or to use dogs or or
+ ganized drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270418@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Turkey - A/F
+DESCRIPTION:Junior Hunt Day. Legal devices: crossbow\, vertical bow\, and
+  arrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow
+ /bolt-shooting air gun (F). 1 bearded turkey\; counts toward the Spring S
+ eason bag limit (2/season). Hunters age 16 or younger only\, accompanied 
+ by an unarmed adult 21+ with a valid MD hunting license (Apprentice licen
+ se does not qualify). Shooting hours: 1/2 hour before sunrise to sunset. 
+ It is illegal to hunt turkeys with the aid of bait\, or to use dogs or or
+ ganized drives. Sunday hunting land access: Private land and designated p
+ ublic land (Cunningham Swamp WMA\, Garrett SF\, Mt. Nebo WMA\, Potomac SF
+ \, Savage River SF). Sunday shooting hours are the same as Monday through
+  Saturday.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270419@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270420@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270421@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270422@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270423@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270424@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270425@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives. Sunday hunting land access: Private land and designated public land
+  (Cunningham Swamp WMA\, Garrett SF\, Mt. Nebo WMA\, Potomac SF\, Savage 
+ River SF). Sunday shooting hours are the same as Monday through Saturday.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270426@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270427@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270428@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270429@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270430@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270501@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270502@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives. Sunday hunting land access: Private land and designated public land
+  (Cunningham Swamp WMA\, Garrett SF\, Mt. Nebo WMA\, Potomac SF\, Savage 
+ River SF). Sunday shooting hours are the same as Monday through Saturday.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270503@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270504@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270505@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270506@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270507@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270508@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270509@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives. Sunday hunting land access: Private land and designated public land
+  (Cunningham Swamp WMA\, Garrett SF\, Mt. Nebo WMA\, Potomac SF\, Savage 
+ River SF). Sunday shooting hours are the same as Monday through Saturday.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270510@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to noon. It is ille
+ gal to hunt turkeys with the aid of bait\, or to use dogs or organized dr
+ ives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270511@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270512@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270513@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270514@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270515@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270516@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives. Sunday hunting land access: Private land and designated public la
+ nd (Cunningham Swamp WMA\, Garrett SF\, Mt. Nebo WMA\, Potomac SF\, Savag
+ e River SF). Sunday shooting hours are the same as Monday through Saturda
+ y.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270517@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270518@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270519@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270520@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270521@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270522@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270523@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives. Sunday hunting land access: Private land and designated public la
+ nd (Cunningham Swamp WMA\, Garrett SF\, Mt. Nebo WMA\, Potomac SF\, Savag
+ e River SF). Sunday shooting hours are the same as Monday through Saturda
+ y.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+BEGIN:VEVENT
+UID:turkey-turkey-garrett-20270524@md-hunting-calendars
+DTSTAMP:20260813T212152Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Turkey - A/F
+DESCRIPTION:Spring Season. Legal devices: crossbow\, vertical bow\, and a
+ rrow/bolt-shooting air guns (A)\; shotgun (#4 shot or smaller) or arrow/b
+ olt-shooting air gun (F). 1 bearded turkey per day\, 2 bearded turkeys fo
+ r the season. Shooting hours: 1/2 hour before sunrise to sunset. It is il
+ legal to hunt turkeys with the aid of bait\, or to use dogs or organized 
+ drives.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Wild Turkey
+END:VEVENT
+END:VCALENDAR
