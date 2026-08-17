@@ -96,3 +96,30 @@
 - [turkey-washington.ics](https://mathew-gower-org.github.io/md-hunting-calendars/turkey-washington.ics)
 - [turkey-wicomico.ics](https://mathew-gower-org.github.io/md-hunting-calendars/turkey-wicomico.ics)
 - [turkey-worcester.ics](https://mathew-gower-org.github.io/md-hunting-calendars/turkey-worcester.ics)
+
+## Migratory Game Bird Hunting Calendars
+
+**Last generated:** August 14, 2026
+
+**Files generated:**
+
+- [black-duck-eastern.ics](https://mathew-gower-org.github.io/md-hunting-calendars/black-duck-eastern.ics)
+- [black-duck-western.ics](https://mathew-gower-org.github.io/md-hunting-calendars/black-duck-western.ics)
+- [brant.ics](https://mathew-gower-org.github.io/md-hunting-calendars/brant.ics)
+- [canada-goose-atlantic-population.ics](https://mathew-gower-org.github.io/md-hunting-calendars/canada-goose-atlantic-population.ics)
+- [canada-goose-early-resident-eastern.ics](https://mathew-gower-org.github.io/md-hunting-calendars/canada-goose-early-resident-eastern.ics)
+- [canada-goose-early-resident-western.ics](https://mathew-gower-org.github.io/md-hunting-calendars/canada-goose-early-resident-western.ics)
+- [canada-goose-late-southern-maryland.ics](https://mathew-gower-org.github.io/md-hunting-calendars/canada-goose-late-southern-maryland.ics)
+- [canada-goose-late-western-maryland.ics](https://mathew-gower-org.github.io/md-hunting-calendars/canada-goose-late-western-maryland.ics)
+- [common-snipe.ics](https://mathew-gower-org.github.io/md-hunting-calendars/common-snipe.ics)
+- [coot-eastern.ics](https://mathew-gower-org.github.io/md-hunting-calendars/coot-eastern.ics)
+- [coot-western.ics](https://mathew-gower-org.github.io/md-hunting-calendars/coot-western.ics)
+- [light-goose-eastern.ics](https://mathew-gower-org.github.io/md-hunting-calendars/light-goose-eastern.ics)
+- [light-goose-western.ics](https://mathew-gower-org.github.io/md-hunting-calendars/light-goose-western.ics)
+- [mourning-dove.ics](https://mathew-gower-org.github.io/md-hunting-calendars/mourning-dove.ics)
+- [rail.ics](https://mathew-gower-org.github.io/md-hunting-calendars/rail.ics)
+- [regular-duck-eastern.ics](https://mathew-gower-org.github.io/md-hunting-calendars/regular-duck-eastern.ics)
+- [regular-duck-western.ics](https://mathew-gower-org.github.io/md-hunting-calendars/regular-duck-western.ics)
+- [teal-eastern.ics](https://mathew-gower-org.github.io/md-hunting-calendars/teal-eastern.ics)
+- [woodcock.ics](https://mathew-gower-org.github.io/md-hunting-calendars/woodcock.ics)
+- [youth-veteran-military-waterfowl.ics](https://mathew-gower-org.github.io/md-hunting-calendars/youth-veteran-military-waterfowl.ics)

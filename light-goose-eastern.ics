@@ -1,0 +1,2023 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//md-hunting-calendars//light-goose-eastern//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Light Goose - Eastern
+X-WR-TIMEZONE:America/New_York
+X-APPLE-CALENDAR-COLOR:#006400
+X-OUTLOOK-COLOR:#006400
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:light-goose-eastern-20261107@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261109@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261110@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261111@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261112@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261113@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261114@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261116@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261117@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261118@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261119@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261120@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261121@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261123@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261124@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261125@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261126@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261127@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261130@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261201@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261202@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261203@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261204@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261205@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261207@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261208@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261209@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261210@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261211@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261212@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261214@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261215@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261216@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261217@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261218@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261219@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261221@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261222@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261223@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261224@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261225@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261226@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261228@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261229@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261230@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20261231@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270101@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270102@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270104@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270105@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270106@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270107@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270108@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270109@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270111@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270112@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270113@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270114@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270115@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270116@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270118@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270119@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270120@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270121@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270122@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270123@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270125@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270126@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270127@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270128@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270129@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270130@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270201@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270202@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270203@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270204@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270205@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270206@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270208@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270209@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270210@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270211@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270212@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270213@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270215@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270216@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270217@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270218@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270219@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270220@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270222@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270223@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270224@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270225@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270226@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270227@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270301@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270302@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270303@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270304@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270305@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270306@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270308@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270309@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:light-goose-eastern-20270310@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Light Goose - Eastern
+DESCRIPTION:Light Goose Season\, Eastern Zone (includes the Eastern-zone-
+ only late extension Feb 8-Mar 10\, not available to Western zone hunters)
+ . Bag: 25/day\, no possession limit. May include greater/lesser snow gees
+ e and Ross's geese. Shooting hours: 1/2 hour before sunrise to sunset. Fe
+ b 8-Mar 10 only: shotguns holding more than 3 shells and electronic calls
+  are permitted.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+END:VCALENDAR

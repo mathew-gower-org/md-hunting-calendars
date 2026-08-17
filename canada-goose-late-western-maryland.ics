@@ -1,0 +1,1308 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//md-hunting-calendars//canada-goose-late-western-maryland//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canada Goose - Late Western Maryland
+X-WR-TIMEZONE:America/New_York
+X-APPLE-CALENDAR-COLOR:#006400
+X-OUTLOOK-COLOR:#006400
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261121@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261123@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261124@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261125@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261126@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261127@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261215@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261216@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261217@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261218@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261219@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261221@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261222@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261223@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261224@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261225@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261226@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261228@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261229@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261230@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20261231@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270101@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270102@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270104@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270105@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270106@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270107@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270108@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270109@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270111@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270112@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270113@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270114@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270115@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270116@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270118@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270119@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270120@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270121@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270122@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270123@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270125@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270126@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270127@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270128@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270129@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270130@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270201@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270202@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270203@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270204@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270205@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270206@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270208@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270209@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270210@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270211@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270212@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270213@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270215@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270216@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270217@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270218@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270219@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270220@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270222@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270223@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270224@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270225@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270226@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270227@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270301@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270302@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270303@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270304@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270305@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270306@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270308@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270309@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-goose-late-western-maryland-20270310@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Canada Goose - Late Western Maryland
+DESCRIPTION:Late Western Maryland Resident Canada Goose Season. Bag: 5/da
+ y\, possession limit 15 throughout. May include Canada\, cackling\, and w
+ hite-fronted geese. Shooting hours: 1/2 hour before sunrise to sunset.
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+END:VCALENDAR

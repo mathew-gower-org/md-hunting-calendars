@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//md-hunting-calendars//youth-veteran-military-waterfowl//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Youth Veteran Military Waterfowl - Statewide
+X-WR-TIMEZONE:America/New_York
+X-APPLE-CALENDAR-COLOR:#006400
+X-OUTLOOK-COLOR:#006400
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:youth-veteran-military-waterfowl-20261107@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Youth Veteran Military Waterfowl - Statewide
+DESCRIPTION:Youth\, Veteran and Military Waterfowl Hunting Day. Eligible:
+  hunters 16 or younger\; military veterans of any age\; active-duty Armed
+  Forces/National Guard/Reserves. Bag combines ducks\, coots\, brant\, lig
+ ht geese\, and Canada geese (Canada goose sub-limit is 2/day in the Atlan
+ tic Population zone\, or 5/day in the Late Southern/Western Resident zone
+ s\, depending on the hunter's location). Youth hunters must be accompanie
+ d by an unarmed adult 21+ with a valid MD hunting license (Apprentice lic
+ ense does not qualify). Shooting hours: 1/2 hour before sunrise to sunset
+ .
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+BEGIN:VEVENT
+UID:youth-veteran-military-waterfowl-20270206@md-hunting-calendars
+DTSTAMP:20260817T194017Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Youth Veteran Military Waterfowl - Statewide
+DESCRIPTION:Youth\, Veteran and Military Waterfowl Hunting Day. Eligible:
+  hunters 16 or younger\; military veterans of any age\; active-duty Armed
+  Forces/National Guard/Reserves. Bag combines ducks\, coots\, brant\, lig
+ ht geese\, and Canada geese (Canada goose sub-limit is 2/day in the Atlan
+ tic Population zone\, or 5/day in the Late Southern/Western Resident zone
+ s\, depending on the hunter's location). Youth hunters must be accompanie
+ d by an unarmed adult 21+ with a valid MD hunting license (Apprentice lic
+ ense does not qualify). Shooting hours: 1/2 hour before sunrise to sunset
+ .
+CLASS:PRIVATE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-APPLE-CALENDAR-COLOR:#006400
+CATEGORIES:Hunting,Migratory Game Birds
+END:VEVENT
+END:VCALENDAR
